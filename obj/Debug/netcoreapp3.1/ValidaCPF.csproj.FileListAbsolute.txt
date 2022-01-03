@@ -1,0 +1,15 @@
+C:\Users\vlnote15\source\repos\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.exe
+C:\Users\vlnote15\source\repos\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.deps.json
+C:\Users\vlnote15\source\repos\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.runtimeconfig.json
+C:\Users\vlnote15\source\repos\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.runtimeconfig.dev.json
+C:\Users\vlnote15\source\repos\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.dll
+C:\Users\vlnote15\source\repos\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.pdb
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.csproj.AssemblyReference.cache
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.Form1.resources
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.csproj.GenerateResource.cache
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.AssemblyInfoInputs.cache
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.AssemblyInfo.cs
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.csproj.CoreCompileInputs.cache
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.dll
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.pdb
+C:\Users\vlnote15\source\repos\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.genruntimeconfig.cache
